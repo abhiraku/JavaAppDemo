@@ -1,2 +1,0 @@
-# JavaAppDemo
-For understanding purpose 
